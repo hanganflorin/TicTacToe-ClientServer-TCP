@@ -1,0 +1,18 @@
+c:\users\florin\documents\visual studio 2013\Projects\TicTacToe_Client\TicTacToe_Client\bin\Debug\TicTacToe_Client.exe.config
+c:\users\florin\documents\visual studio 2013\Projects\TicTacToe_Client\TicTacToe_Client\obj\Debug\TicTacToe_Client.Properties.Resources.resources
+c:\users\florin\documents\visual studio 2013\Projects\TicTacToe_Client\TicTacToe_Client\obj\Debug\TicTacToe_Client.csproj.GenerateResource.Cache
+c:\users\florin\documents\visual studio 2013\Projects\TicTacToe_Client\TicTacToe_Client\bin\Debug\TicTacToe_Client.exe
+c:\users\florin\documents\visual studio 2013\Projects\TicTacToe_Client\TicTacToe_Client\bin\Debug\TicTacToe_Client.pdb
+c:\users\florin\documents\visual studio 2013\Projects\TicTacToe_Client\TicTacToe_Client\obj\Debug\TicTacToe_Client.Form1.resources
+c:\users\florin\documents\visual studio 2013\Projects\TicTacToe_Client\TicTacToe_Client\obj\Debug\TicTacToe_Client.exe
+c:\users\florin\documents\visual studio 2013\Projects\TicTacToe_Client\TicTacToe_Client\obj\Debug\TicTacToe_Client.pdb
+c:\users\florin\documents\visual studio 2013\Projects\TicTacToe_Client\TicTacToe_Client\obj\Debug\TicTacToe_Client.csprojResolveAssemblyReference.cache
+C:\Users\Florin\Desktop\TicTacToe_Client\TicTacToe_Client\bin\Debug\TicTacToe_Client.exe.config
+C:\Users\Florin\Desktop\TicTacToe_Client\TicTacToe_Client\obj\Debug\TicTacToe_Client.exe
+C:\Users\Florin\Desktop\TicTacToe_Client\TicTacToe_Client\obj\Debug\TicTacToe_Client.pdb
+C:\Users\Florin\Desktop\TicTacToe_Client\TicTacToe_Client\bin\Debug\TicTacToe_Client.exe
+C:\Users\Florin\Desktop\TicTacToe_Client\TicTacToe_Client\bin\Debug\TicTacToe_Client.pdb
+C:\Users\Florin\Desktop\TicTacToe_Client\TicTacToe_Client\obj\Debug\TicTacToe_Client.csprojResolveAssemblyReference.cache
+C:\Users\Florin\Desktop\TicTacToe_Client\TicTacToe_Client\obj\Debug\TicTacToe_Client.Form1.resources
+C:\Users\Florin\Desktop\TicTacToe_Client\TicTacToe_Client\obj\Debug\TicTacToe_Client.Properties.Resources.resources
+C:\Users\Florin\Desktop\TicTacToe_Client\TicTacToe_Client\obj\Debug\TicTacToe_Client.csproj.GenerateResource.Cache
